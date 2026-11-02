@@ -1,1 +1,1 @@
-document dot body inner HTML equals div class equal container slash div, then save.
+document.body.innerHTML = '<div class="container"></div>';
